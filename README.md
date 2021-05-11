@@ -1,20 +1,7 @@
-# covid-tracker
+# Covid Tracker
 
-## Project setup
-```
-npm install
-```
+https://suspicious-archimedes-118aac.netlify.app/
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Technologies Used
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# Vue-Covid_Tracker
+Vue | Tailwind
